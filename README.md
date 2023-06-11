@@ -20,12 +20,16 @@ translating them into English.
 
 ## 生成式AI的应用路线图 | 图2 可控性与应用方向
 
-![Controllability: The Evolution of Generative AI](./diagrams/generative-ai-controllability-02.png)
+![Controllability: Application Cases](./diagrams/generative-ai-controllability-02.png)
 
 ## 生成式AI的应用路线图 | 图3 应用领域与典型案例
 
-![Controllability: The Evolution of Generative AI](./diagrams/generative-ai-controllability-03.png)
+![Controllability: Application Categories and Cases](./diagrams/generative-ai-controllability-03.png)
 
 ## 生成式AI的应用路线图 | 图4 多模态AI的应用能力演进
 
-![Controllability: The Evolution of Generative AI](./diagrams/generative-ai-controllability-04.png)
+![Controllability: Multimodal Use Cases](./diagrams/generative-ai-controllability-04.png)
+
+## 大模型技术与应用思考导图
+
+![LLM and Multimodal Use Cases](./diagrams/llm-and-multimodal-use-cases.png)
