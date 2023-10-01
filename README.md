@@ -11,7 +11,9 @@ This work is licensed under a
 
 ## Localization
 
-The original diagrams and text contents are in Chinese. See an English translation at [README.en.md](./README.en.md).
+The original diagrams and text contents are in Chinese. Here is an English Translation:
+
+- [English translation of the diagrams](./README.en.md).
 
 ## 生成式AI的应用路线图 | 图1 可控性的演进规律
 

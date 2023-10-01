@@ -1,8 +1,8 @@
 ![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
-# The Roadmap of Generative AI 生成式AI的应用路线图
+# The Roadmap of Generative AI
 
-The roadmap of generative AI: use cases and applications.
+The roadmap of generative AI: use cases and applications. This is a translation of [the original Chinese diagrams](./README.md).
 
 ## LICENSE
 
