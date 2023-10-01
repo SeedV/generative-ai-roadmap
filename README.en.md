@@ -9,26 +9,18 @@ The roadmap of generative AI: use cases and applications.
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-## Localization
+## The Application Roadmap of Generative AI - Figure 1, Evolution of Controllability
 
-The original diagrams and text contents are in Chinese. See an English translation at [README.en.md](./README.en.md).
+![Controllability: The Evolution of Generative AI](./diagrams/generative-ai-controllability-01.en.png)
 
-## 生成式AI的应用路线图 | 图1 可控性的演进规律
-
-![Controllability: The Evolution of Generative AI](./diagrams/generative-ai-controllability-01.png)
-
-## 生成式AI的应用路线图 | 图2 可控性与应用方向
+## The Application Roadmap of Generative AI - Figure 2, Application Trends by Controllability
 
 ![Controllability: Application Trends](./diagrams/generative-ai-controllability-02.png)
 
-## 生成式AI的应用路线图 | 图3 应用领域与典型案例
+## Application Roadmap of Generative AI - Figure 3, Typical AI Applications
 
 ![Controllability: Application Categories and Cases](./diagrams/generative-ai-controllability-03.png)
 
-## 生成式AI的应用路线图 | 图4 多模态AI的应用能力演进
+## The Application Roadmap of Generative AI - Figure 4, Evolution of Multimodal AI Applications
 
 ![Controllability: Multimodal Use Cases](./diagrams/generative-ai-controllability-04.png)
-
-## 大模型技术与应用思考导图
-
-![LLM and Multimodal Use Cases](./diagrams/llm-and-multimodal-use-cases.png)
