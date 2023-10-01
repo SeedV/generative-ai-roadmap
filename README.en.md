@@ -15,12 +15,12 @@ This work is licensed under a
 
 ## The Application Roadmap of Generative AI - Figure 2, Application Trends by Controllability
 
-![Controllability: Application Trends](./diagrams/generative-ai-controllability-02.png)
+![Controllability: Application Trends](./diagrams/generative-ai-controllability-02.en.png)
 
 ## Application Roadmap of Generative AI - Figure 3, Typical AI Applications
 
-![Controllability: Application Categories and Cases](./diagrams/generative-ai-controllability-03.png)
+![Controllability: Application Categories and Cases](./diagrams/generative-ai-controllability-03.en.png)
 
 ## The Application Roadmap of Generative AI - Figure 4, Evolution of Multimodal AI Applications
 
-![Controllability: Multimodal Use Cases](./diagrams/generative-ai-controllability-04.png)
+![Controllability: Multimodal Use Cases](./diagrams/generative-ai-controllability-04.en.png)
